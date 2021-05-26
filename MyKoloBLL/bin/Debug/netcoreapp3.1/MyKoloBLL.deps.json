@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyKoloBLL/1.0.0": {
+        "dependencies": {
+          "MyKoloDLL": "1.0.0"
+        },
+        "runtime": {
+          "MyKoloBLL.dll": {}
+        }
+      },
+      "MyKoloDLL/1.0.0": {
+        "runtime": {
+          "MyKoloDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyKoloBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyKoloDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

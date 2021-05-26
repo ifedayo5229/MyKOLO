@@ -1,0 +1,9 @@
+C:\Users\Ifedayo\Desktop\C# SBSC\WPFMYKOLO\MyKoloDLL\bin\Debug\netcoreapp3.1\MyKoloDLL.deps.json
+C:\Users\Ifedayo\Desktop\C# SBSC\WPFMYKOLO\MyKoloDLL\bin\Debug\netcoreapp3.1\MyKoloDLL.dll
+C:\Users\Ifedayo\Desktop\C# SBSC\WPFMYKOLO\MyKoloDLL\bin\Debug\netcoreapp3.1\MyKoloDLL.pdb
+C:\Users\Ifedayo\Desktop\C# SBSC\WPFMYKOLO\MyKoloDLL\obj\Debug\netcoreapp3.1\MyKoloDLL.csprojAssemblyReference.cache
+C:\Users\Ifedayo\Desktop\C# SBSC\WPFMYKOLO\MyKoloDLL\obj\Debug\netcoreapp3.1\MyKoloDLL.AssemblyInfoInputs.cache
+C:\Users\Ifedayo\Desktop\C# SBSC\WPFMYKOLO\MyKoloDLL\obj\Debug\netcoreapp3.1\MyKoloDLL.AssemblyInfo.cs
+C:\Users\Ifedayo\Desktop\C# SBSC\WPFMYKOLO\MyKoloDLL\obj\Debug\netcoreapp3.1\MyKoloDLL.csproj.CoreCompileInputs.cache
+C:\Users\Ifedayo\Desktop\C# SBSC\WPFMYKOLO\MyKoloDLL\obj\Debug\netcoreapp3.1\MyKoloDLL.dll
+C:\Users\Ifedayo\Desktop\C# SBSC\WPFMYKOLO\MyKoloDLL\obj\Debug\netcoreapp3.1\MyKoloDLL.pdb
