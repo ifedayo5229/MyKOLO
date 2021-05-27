@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\MyKoloBLL.csproj": {}
+    "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDAL\\MyKoloDLL.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\MyKoloBLL.csproj": {
+    "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDAL\\MyKoloDLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\MyKoloBLL.csproj",
-        "projectName": "MyKoloBLL",
-        "projectPath": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\MyKoloBLL.csproj",
+        "projectUniqueName": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDAL\\MyKoloDLL.csproj",
+        "projectName": "MyKoloDLL",
+        "projectPath": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDAL\\MyKoloDLL.csproj",
         "packagesPath": "C:\\Users\\Ifedayo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\obj\\",
+        "outputPath": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ifedayo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,6 +35,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "IronXL.Excel": {
+              "target": "Package",
+              "version": "[2020.12.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

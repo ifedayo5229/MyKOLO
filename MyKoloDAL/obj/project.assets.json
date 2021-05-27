@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IronXL.Excel/2020.12.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/IronXL.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/IronXL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IronXL.Excel/2020.12.2": {
+      "sha512": "tsdwSR82HNZM/gtq2DfL4N7jx61K58EwBGVH7Yc1T5BwRUeHVthzbWnRfajCqIecfZThhvIqBqOzm2CF+mXoxw==",
+      "type": "package",
+      "path": "ironxl.excel/2020.12.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "EULA.txt",
+        "ironxl.excel.2020.12.2.nupkg.sha512",
+        "ironxl.excel.nuspec",
+        "lib/net45/IronXL.dll",
+        "lib/net45/IronXL.xml",
+        "lib/netstandard2.0/IronXL.dll",
+        "lib/netstandard2.0/IronXL.xml",
+        "readme-setup.txt",
+        "readme.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "IronXL.Excel >= 2020.12.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ifedayo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDAL\\MyKoloDLL.csproj",
+      "projectName": "MyKoloDLL",
+      "projectPath": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDAL\\MyKoloDLL.csproj",
+      "packagesPath": "C:\\Users\\Ifedayo\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDAL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ifedayo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "IronXL.Excel": {
+            "target": "Package",
+            "version": "[2020.12.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

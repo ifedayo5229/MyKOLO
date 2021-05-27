@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h1u5fiW9vA8PpsvhhAUWNRDnd1HY0/WJkfZJ/yMEjhyE4y4Uhyhd9C8vLgcPJ4aB2+p2L4tjVsVF9pPEvCJSmQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDAL\\MyKoloDLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ifedayo\\.nuget\\packages\\ironxl.excel\\2020.12.2\\ironxl.excel.2020.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,33 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "MyKoloDLL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/MyKoloDLL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MyKoloDLL.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "MyKoloDLL/1.0.0": {
-      "type": "project",
-      "path": "../MyKoloDLL/MyKoloDLL.csproj",
-      "msbuildProject": "../MyKoloDLL/MyKoloDLL.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "MyKoloDLL >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Ifedayo\\.nuget\\packages\\": {}
@@ -35,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\MyKoloBLL.csproj",
+      "projectUniqueName": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\MyKoloBLL.csproj",
       "projectName": "MyKoloBLL",
-      "projectPath": "C:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\MyKoloBLL.csproj",
+      "projectPath": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\MyKoloBLL.csproj",
       "packagesPath": "C:\\Users\\Ifedayo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\obj\\",
+      "outputPath": "c:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloBLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ifedayo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,11 +30,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDLL\\MyKoloDLL.csproj": {
-              "projectPath": "C:\\Users\\Ifedayo\\Desktop\\C# SBSC\\WPFMYKOLO\\MyKoloDLL\\MyKoloDLL.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
